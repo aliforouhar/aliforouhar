@@ -5,7 +5,7 @@ I'm junior backend developer.
 ```js
 const AliForouhar = {
     pronouns: "He" | "Him",
-    aboutMe: "",
+    aboutMe: "I'm junior backend developer, NodeJS",
     languages: ["JavaScript", "TypeScript"],
     myStack: {             
         backEnd: {             
