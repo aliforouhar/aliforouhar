@@ -4,16 +4,16 @@ I'm Junior Backend Developer.
 ```js
 const AliForouhar = {
     pronouns: "He" | "Him",
-    aboutMe: "I'm Junior Backend Developer, NodeJS",
-    languages: ["javaScript", "typeScript"],
-        myStack: {             
+    aboutMe: "",
+    languages: [],
+    myStack: {             
         backEnd: {             
-          frameworks: ["Express.js", "fastify", "koa.js", "Nest.js"],                   
-          microServiceTools: ["gRPC", "RabbitMQ", "Kafka"],
-          realTimeTools: ["socket.io", "webSocket"],
-          DataBases: ["MongoDB", "Redis", "ElasticSearch"],
-          architectures: ["MVC", "onion", "clean", "SOLID"],
-          API: ["postman", "insomnia", "swagger"],
+          frameworks: [],                   
+          microServiceTools: [],
+          realTimeTools: [],
+          DataBases: [],
+          architectures: [],
+          API: [],
         },         
         frontEnd: {         
             statusCode: 401;
@@ -21,7 +21,7 @@ const AliForouhar = {
                 message: "i'm not front-end developer";
             };     
         },         
-        devOps: ["Docker🐳"],               
+        devOps: [],               
    }, 
 }
 ```
