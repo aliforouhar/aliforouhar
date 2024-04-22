@@ -10,11 +10,11 @@ const AliForouhar = {
     myStack: {             
         backEnd: {             
           frameworks: ["Express.js", "fastify", "Nest.js"],                   
-          microServiceTools: [],
-          realTimeTools: [],
-          DataBases: [],
+          microServiceTools: ["gRPC", "RabbitMQ"],
+          realTimeTools: ["socket.io", "webSocket"],
+          DataBases: ["MongoDB", "Redis", "ElasticSearch"],
           architectures: [],
-          API: [],
+          API: ["swagger", "postman", "insomnia"],
         },         
         frontEnd: {         
             statusCode: 401;
