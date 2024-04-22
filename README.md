@@ -13,7 +13,7 @@ const AliForouhar = {
           microServiceTools: ["gRPC", "RabbitMQ"],
           realTimeTools: ["socket.io", "webSocket"],
           DataBases: ["MongoDB", "Redis", "ElasticSearch"],
-          architectures: [],
+          architectures: ["MVC"],
           API: ["swagger", "postman", "insomnia"],
         },         
         frontEnd: {         
