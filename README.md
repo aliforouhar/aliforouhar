@@ -6,10 +6,10 @@ I'm junior backend developer.
 const AliForouhar = {
     pronouns: "He" | "Him",
     aboutMe: "",
-    languages: [],
+    languages: ["javaScript", "typeScript"],
     myStack: {             
         backEnd: {             
-          frameworks: [],                   
+          frameworks: ["Express.js", "fastify", "Nest.js"],                   
           microServiceTools: [],
           realTimeTools: [],
           DataBases: [],
@@ -19,7 +19,7 @@ const AliForouhar = {
         frontEnd: {         
             statusCode: 401;
             data: {
-                message: "I'm not front-end developer";
+                message: "I'm not frontend developer";
             };     
         },         
         devOps: ["Docker"],               
