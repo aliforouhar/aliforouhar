@@ -1,5 +1,5 @@
 ### Hi there
-I'm junior backend developer.
+This is Ali a junior backend developer.
 
 ### About me
 ```js
