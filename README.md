@@ -22,7 +22,8 @@ const AliForouhar = {
                 message: "I'm not frontend developer";
             };     
         },         
-        devOps: ["Docker"],               
+        devOps: ["Docker"],
+        currentFocus: "Node.js Web Development",            
    }, 
 }
 ```
