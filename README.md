@@ -1,6 +1,7 @@
 ### Hi there
-I'm Junior Backend Developer.
+I'm junior backend developer.
 
+### About me
 ```js
 const AliForouhar = {
     pronouns: "He" | "Him",
@@ -18,7 +19,7 @@ const AliForouhar = {
         frontEnd: {         
             statusCode: 401;
             data: {
-                message: "i'm not front-end developer";
+                message: "I'm not front-end developer";
             };     
         },         
         devOps: [],               
