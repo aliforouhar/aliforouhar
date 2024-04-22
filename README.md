@@ -6,7 +6,7 @@ I'm junior backend developer.
 const AliForouhar = {
     pronouns: "He" | "Him",
     aboutMe: "",
-    languages: ["javaScript", "typeScript"],
+    languages: ["JavaScript", "TypeScript"],
     myStack: {             
         backEnd: {             
           frameworks: ["Express.js", "fastify", "Nest.js"],                   
