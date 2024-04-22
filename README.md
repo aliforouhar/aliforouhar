@@ -53,5 +53,3 @@ const AliForouhar = {
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@)
 [![Gmail](https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliforouhaar@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/aliforouhaar)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@aliforouhaar)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@aliforouhaar)
