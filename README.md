@@ -6,8 +6,8 @@ This is Ali a mid-level backend developer.
 const AliForouhar = {
     pronouns: "He" | "Him",
     aboutMe: "",
-    languages: ["JavaScript", "TypeScript"],
-    myStack: {             
+    myStack: {
+        languages: ["JavaScript", "TypeScript"],            
         backEnd: {             
           frameworks: ["Express.js", "fastify", "Nest.js"],                   
           microServiceTools: ["gRPC", "RabbitMQ"],
