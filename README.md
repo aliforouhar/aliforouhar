@@ -1,11 +1,11 @@
 ### Hi there
-This is Ali a junior backend developer.
+This is Ali a backend developer.
 
 ### About me
 ```js
 const AliForouhar = {
     pronouns: "He" | "Him",
-    aboutMe: "Junior backend developer",
+    aboutMe: "",
     languages: ["JavaScript", "TypeScript"],
     myStack: {             
         backEnd: {             
