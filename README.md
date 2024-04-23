@@ -1,5 +1,4 @@
 ### Hi there
-This is Ali a mid-level backend developer.
 
 ### About me
 ```js
