@@ -1,6 +1,7 @@
-### Hi there
+Ali forouhar
+Mid-level Backend developer, NodeJS
 
-### About me
+### About
 ```js
 const AliForouhar = {
     pronouns: "He" | "Him",
