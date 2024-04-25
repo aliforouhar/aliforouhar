@@ -1,4 +1,4 @@
-Ali forouhar <br>
+**Ali forouhar** <br>
 Mid-level Backend developer, NodeJS
 
 ### About
