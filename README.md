@@ -1,6 +1,6 @@
 **Ali Forouhar** 
 <br>
-Mid-level Backend developer, NodeJS
+Mid-level backend developer, NodeJS
 
 ### Top skills
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
