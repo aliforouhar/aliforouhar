@@ -19,8 +19,8 @@ const AliForouhar = {
           dataBases: ["MongoDB", "Redis", "ElasticSearch"],
           realTimeTools: ["socket.io"],
           microServiceTools: ["gRPC", "RabbitMQ"],
-          architectures: ["MVC"],
           API: ["swagger", "postman", "insomnia"],
+          architectures: ["MVC"],
         },         
         frontEnd: {         
             statusCode: 401;
