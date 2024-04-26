@@ -12,14 +12,13 @@ Mid-level Backend developer, NodeJS
 ```js
 const AliForouhar = {
     pronouns: "He" | "Him",
-    aboutMe: "",
     myStack: {
         languages: ["JavaScript", "TypeScript"],            
         backEnd: {             
           frameworks: ["Express.js", "fastify", "Nest.js"],                   
-          microServiceTools: ["gRPC", "RabbitMQ"],
-          realTimeTools: ["socket.io", "webSocket"],
           DataBases: ["MongoDB", "Redis", "ElasticSearch"],
+          realTimeTools: ["socket.io"],
+          microServiceTools: ["gRPC", "RabbitMQ"],
           architectures: ["MVC"],
           API: ["swagger", "postman", "insomnia"],
         },         
