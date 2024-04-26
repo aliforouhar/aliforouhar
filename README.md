@@ -16,7 +16,7 @@ const AliForouhar = {
         languages: ["JavaScript", "TypeScript"],            
         backEnd: {             
           frameworks: ["Express.js", "fastify", "Nest.js"],                   
-          DataBases: ["MongoDB", "Redis", "ElasticSearch"],
+          dataBases: ["MongoDB", "Redis", "ElasticSearch"],
           realTimeTools: ["socket.io"],
           microServiceTools: ["gRPC", "RabbitMQ"],
           architectures: ["MVC"],
