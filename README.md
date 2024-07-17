@@ -1,6 +1,6 @@
 **Ali Forouhar** 
 <br>
-Mid-level backend developer, NodeJS
+Crafting Scalable and Efficient Server-Side Solutions
 
 ### Top skills
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,5 +56,4 @@ const AliForouhar = {
 ### Contact info
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliforouhar)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@)
-[![Gmail](https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliforouhaar@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/aliforouhaar)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/aliforouhar_dev)
